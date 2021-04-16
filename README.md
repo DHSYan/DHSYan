@@ -1,11 +1,12 @@
-### Helloooooo
+### Hi, I am Sean! I also go with my nickname Twinkletoes!
 
 
-- 🔭 I’m currently working on School
-- 🌱 I’m currently learning C Language
+- High School Studnet Class of 2022
+- Learning C
+
 
 Cheerio~ \
--SeantheSherlock
+-Twinkletoes
 
 <!--
 - 👯 I’m looking to collaborate on ...
