@@ -1,7 +1,7 @@
 ### Hi, I am Sean! I also go with my nickname Twinkletoes!
 
 
-- High School Studnet Class of 2022
+- High School Student Class of 2022
 - Learning C
 
 
