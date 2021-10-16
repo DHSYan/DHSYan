@@ -1,12 +1,10 @@
-### Hi, I am Sean! I also go with my nickname Twinkletoes!
+### Hello! I am Sean!
 
+- I am a inspired High School Student who is on his final year of high school. 
+- Goal --> UBC Computer Science
 
-- High School Student Class of 2022
-- Learning C
-
-
-Cheerio~ \
--Twinkletoes
+Cheerio~
+Sean Yan
 
 <!--
 - 👯 I’m looking to collaborate on ...
