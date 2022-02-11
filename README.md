@@ -3,7 +3,7 @@
 I am a inspired High School Student who is on his final year of high school
 
 📖Goals:
-- Study Computer Science in University!
+- Study Computer Science in UBC!
 - Learn more Java, grasp more of the fundemental of in Computer Science
 
 ✏️Current Projects:
