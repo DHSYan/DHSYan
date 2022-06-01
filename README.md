@@ -1,6 +1,6 @@
 ### Hello! I am Sean!
 
-I am a imcoming Waterloo Mathematics Science looking to major in Data Science or Computer Science
+I am a imcoming University of Waterloo Mathematics Student looking to major in Data Science or Computer Science
 
 📖Goals:
 - Expand my knowledge in coding
