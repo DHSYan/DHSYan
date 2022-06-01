@@ -1,17 +1,16 @@
 ### Hello! I am Sean!
 
-I am a inspired High School Student who is on his final year of high school
+I am a imcoming Waterloo Mathematics Science looking to major in Data Science or Computer Science
 
 📖Goals:
-- Study Computer Science in UBC!
-- Learn more Java, grasp more of the fundemental of in Computer Science
+- Expand my knowledge in coding
+- currently learning web development
 
 ✏️Current Projects:
-- Personal Website
+- Learning Assistance Web App
 
 💭Project in mind:
 - Voice Command Bot
-- Email Notifier With RPi
 
 🔍Interest:
 - Automation
@@ -30,6 +29,7 @@ I am a inspired High School Student who is on his final year of high school
 - C#
 - Git
 - IOT
+- Linux
 
 📫 Reach me by email or my new upcoming website: <br> contact@twinkletoeszen.com | (new website coming soon) [Old Personal Website](https://twinkletoes5.netlify.app) *Warning Very Borken on Mobile*
 
