@@ -3,33 +3,36 @@
 I am a imcoming University of Waterloo Mathematics Student looking to major in Data Science or Computer Science
 
 📖Goals:
-- Expand my knowledge in coding
-- currently learning web development
+- Get Good at Algorithms, Data Structures, OOP, and Fucntional Programming.
+- Learn Full-Stack Web Development
 
 ✏️Current Projects:
-- Learning Assistance Web App
+- Learning Assistance Python Program
 
 💭Project in mind:
-- Voice Command Bot
+- Personal Website
 
 🔍Interest:
 - Automation
 - Web Scraping
 - Web Development
-- Technology
+- Computational Theory
+- Backend Development
+- Software Engineering
 
 ⌨️Languages I know or learning:
 - Python
-- Java (Learning)
 - Javascript (Learning)
 - C (Learning)
 
+<!--
 🔬Other Random Experience I have:
 - Unity
 - C#
 - Git
 - IOT
 - Linux
+-->
 
 📫 Reach me by email or my new upcoming website: <br> contact@twinkletoeszen.com | (new website coming soon) [Old Personal Website](https://twinkletoes5.netlify.app) *Warning Very Borken on Mobile*
 
