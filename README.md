@@ -32,6 +32,7 @@ I am a Math Student in uWaterloo! Currently looking for 2023 Summer SWE Intern P
 - Shell Scripting
 - Git/Github
 - CLI
+- Basic Web Development
 
 <!--
 📫 Reach me by email or my new upcoming website: <br> contact@twinkletoeszen.com | (new website coming soon) [Old Personal Website](https://twinkletoes5.netlify.app) *Warning Very Borken on Mobile*
