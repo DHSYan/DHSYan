@@ -1,4 +1,4 @@
-### Hello! I am Sean!
+### Hello! I'm Sean! It's very nice to meet you!
 
 I am a Math Student in uWaterloo! Currently looking for 2023 Summer SWE Intern Positions!
 
