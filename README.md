@@ -1,16 +1,16 @@
 ### Hello! I am Sean!
 
-I am a imcoming University of Waterloo Mathematics Student looking to major in Data Science or Computer Science
+I am a Math Student in uWaterloo! Currently looking for 2023 Summer SWE Intern Positions!
 
 📖Goals:
-- Get Good at Algorithms, Data Structures, OOP, and Fucntional Programming.
+- Get Good at D&S. 
 - Learn Full-Stack Web Development
 
 ✏️Current Projects:
-- Learning Assistance Python Program
+- School
 
 💭Project in mind:
-- Personal Website
+- Real World App in C and Racket.
 
 🔍Interest:
 - Automation
@@ -21,20 +21,21 @@ I am a imcoming University of Waterloo Mathematics Student looking to major in D
 - Software Engineering
 
 ⌨️Languages I know or learning:
+- Racket
+- C/C++
+- Rust
 - Python
-- Javascript (Learning)
-- C (Learning)
+
+
+🔬Other Skills:
+- Vim
+- Shell Scripting
+- Git/Github
+- CLI
 
 <!--
-🔬Other Random Experience I have:
-- Unity
-- C#
-- Git
-- IOT
-- Linux
--->
-
 📫 Reach me by email or my new upcoming website: <br> contact@twinkletoeszen.com | (new website coming soon) [Old Personal Website](https://twinkletoes5.netlify.app) *Warning Very Borken on Mobile*
+-->
 
 Cheerio~ \
 Sean Yan
