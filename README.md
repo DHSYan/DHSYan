@@ -13,6 +13,7 @@ I am a Math Student in uWaterloo!
 ⌨️I am currently Working On:
 - School
 - Learning Assistance
+- Mastering Developing Workflow (Vim, shell... check .dotfiles)
 
 <!--
 💭Project in mind:
