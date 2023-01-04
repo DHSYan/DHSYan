@@ -47,10 +47,10 @@ I am a Math Student in uWaterloo!
 <!--
 📫 Reach me by email or my new upcoming website: <br> contact@twinkletoeszen.com | (new website coming soon) [Old Personal Website](https://twinkletoes5.netlify.app) *Warning Very Borken on Mobile*
 -->
-
+<!--
 Cheerio~ \
 Sean Yan
-
+-->
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with 
