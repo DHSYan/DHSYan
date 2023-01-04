@@ -1,6 +1,9 @@
 ### Nice to meet you, I'm Sean!
 
 I am a Math Student in uWaterloo!
+
+🔍 I am looking for:
+- Summer 2023 Tech Internship Opportunities
 <!--
 📖Goals:
 - Get Good at D&S. 
