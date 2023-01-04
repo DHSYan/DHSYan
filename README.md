@@ -7,9 +7,10 @@ I am a Math Student in uWaterloo!
 - Learn Full-Stack Web Development
 -->
 
-- Working On:
+⌨️I am currently Working On:
 - School
 - Learning Assistance
+
 <!--
 💭Project in mind:
 - Real World App in C and Racket.
