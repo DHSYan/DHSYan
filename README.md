@@ -1,17 +1,21 @@
-### Hello! I'm Sean! It's very nice to meet you!
+### Nice to meet you, I'm Sean!
 
-I am a Math Student in uWaterloo! Currently looking for 2023 Summer SWE Intern Positions!
-
+I am a Math Student in uWaterloo!
+<!--
 📖Goals:
 - Get Good at D&S. 
 - Learn Full-Stack Web Development
+-->
 
-✏️Current Projects:
+- Working On:
 - School
-
+- Learning Assistance
+<!--
 💭Project in mind:
 - Real World App in C and Racket.
+-->
 
+<!--
 🔍Interest:
 - Automation
 - Web Scraping
@@ -19,21 +23,23 @@ I am a Math Student in uWaterloo! Currently looking for 2023 Summer SWE Intern P
 - Computational Theory
 - Backend Development
 - Software Engineering
-
+-->
+<!--
 ⌨️Languages I know or learning:
 - Racket
 - C/C++
 - Rust
 - Python
+-->
 
-
+<!--
 🔬Other Skills:
 - Vim
 - Shell Scripting
 - Git/Github
 - CLI
 - Basic Web Development
-
+-->
 <!--
 📫 Reach me by email or my new upcoming website: <br> contact@twinkletoeszen.com | (new website coming soon) [Old Personal Website](https://twinkletoes5.netlify.app) *Warning Very Borken on Mobile*
 -->
