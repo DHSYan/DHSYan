@@ -1,6 +1,6 @@
 ### Nice to meet you, I'm Sean!
 
-I am a Math Student in uWaterloo!
+I am a Math Student in uWaterloo with immense passion in Developing Cool Stuff! 
 
 🔍 I am looking for:
 - Summer 2023 Tech Internship Opportunities
