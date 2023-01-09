@@ -14,6 +14,7 @@ I am a Math Student in uWaterloo with immense passion in Developing Cool Stuff!
 - School
 - Learning Assistance
 - Mastering Developing Workflow (Vim, shell... check .dotfiles)
+- Making a Commit Every other day in 2023
 
 <!--
 💭Project in mind:
