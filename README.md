@@ -1,21 +1,25 @@
 ### Nice to meet you, I'm Sean!
+<!-- I am a Math Student in uWaterloo with immense passion in Developing Cool Stuff! -->
 
-I am a Math Student in uWaterloo with immense passion in Developing Cool Stuff! 
+I am a second-year Software Engineering Student in the Department of Computer Science and Engineering at UNSW!
+I have an immense passion for Neovim, Home Labbing, CS, Math, and Developing Cool Stuff in general!
 
+<!--
 🔍 I am looking for:
 - Summer 2023 Tech Internship Opportunities
-<!--
+
 📖Goals:
 - Get Good at D&S. 
 - Learn Full-Stack Web Development
 -->
-
+<!--
 ⌨️I am currently Working On:
 - School
 - Learning Assistance
 - Mastering Developing Workflow (Vim, shell... check .dotfiles)
 - Contributing to Open Source
 - Work on Code everyday!
+-->
 <!--
 💭Project in mind:
 - Real World App in C and Racket.
