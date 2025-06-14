@@ -1,7 +1,7 @@
 ### Nice to meet you, I'm Sean!
 <!-- I am a Math Student in uWaterloo with immense passion in Developing Cool Stuff! -->
 
-I am a third-year Science Student studying at The University of British Columbia!
+I am a third-year (BSc) Computer Science Student studying at The University of British Columbia!
 I have an immense passion for Neovim, Home Labbing, CS, Math, and Developing Cool Stuff in general!
 
 <!--
