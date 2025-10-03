@@ -2,7 +2,7 @@
 <!-- I am a Math Student in uWaterloo with immense passion in Developing Cool Stuff! -->
 
 I am a third-year (BSc, Majoring in) Computer Science Student studying at The University of British Columbia!<BR>
-I am also a Software Engineer Intern at Sealth!
+I am also a Software Engineer Intern on the Cybersecurity team at Metaguru!
 I have an immense passion for Neovim, Home Labbing, CS, Math, and Developing Cool Stuff in general!
 
 <!--
